@@ -14,6 +14,7 @@
 		1127E67926E0FBB300E2FEFF /* Mod2CreativeApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1127E67726E0FBB300E2FEFF /* Mod2CreativeApp.xcdatamodeld */; };
 		1127E67B26E0FBB400E2FEFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1127E67A26E0FBB400E2FEFF /* Assets.xcassets */; };
 		1127E67E26E0FBB400E2FEFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1127E67C26E0FBB400E2FEFF /* LaunchScreen.storyboard */; };
+		1127E68A26E1009600E2FEFF /* ViewController2calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1127E68926E1009600E2FEFF /* ViewController2calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1127E67A26E0FBB400E2FEFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1127E67D26E0FBB400E2FEFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1127E67F26E0FBB400E2FEFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1127E68926E1009600E2FEFF /* ViewController2calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				1127E67C26E0FBB400E2FEFF /* LaunchScreen.storyboard */,
 				1127E67F26E0FBB400E2FEFF /* Info.plist */,
 				1127E67726E0FBB300E2FEFF /* Mod2CreativeApp.xcdatamodeld */,
+				1127E68926E1009600E2FEFF /* ViewController2calculator.swift */,
 			);
 			path = Mod2CreativeApp;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1127E67326E0FBB300E2FEFF /* ViewController.swift in Sources */,
+				1127E68A26E1009600E2FEFF /* ViewController2calculator.swift in Sources */,
 				1127E66F26E0FBB300E2FEFF /* AppDelegate.swift in Sources */,
 				1127E67926E0FBB300E2FEFF /* Mod2CreativeApp.xcdatamodeld in Sources */,
 				1127E67126E0FBB300E2FEFF /* SceneDelegate.swift in Sources */,
